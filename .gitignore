@@ -1,0 +1,10 @@
+
+.DS_Store
+data/nyc_zipcodes.dbf
+data/nyc_zipcodes.prj
+data/nyc_zipcodes.sbn
+data/nyc_zipcodes.sbx
+data/nyc_zipcodes.shp
+data/nyc_zipcodes.shp.xml
+data/nyc_zipcodes.shx
+data/zillow_rent_data.csv
