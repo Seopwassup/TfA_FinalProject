@@ -1,0 +1,11 @@
+NumPy
+Math
+Matplotlib.pyplot
+Seaborn
+Pandas
+GeoPandas
+Requests
+Psycopg2
+
+BeautifulSoup from bs4
+Socrata from sodapy
