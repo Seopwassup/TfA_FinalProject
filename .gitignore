@@ -8,3 +8,9 @@ data/nyc_zipcodes.shp
 data/nyc_zipcodes.shp.xml
 data/nyc_zipcodes.shx
 data/zillow_rent_data.csv
+queries/query_1.sql
+queries/query_2.sql
+queries/query_3.sql
+queries/query_4.sql
+queries/query_5.sql
+queries/query_6.sql
