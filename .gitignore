@@ -14,3 +14,6 @@ queries/query_3.sql
 queries/query_4.sql
 queries/query_5.sql
 queries/query_6.sql
+schema.sql
+.ipynb_checkpoints
+.gitattributes
