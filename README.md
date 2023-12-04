@@ -1,7 +1,6 @@
-# TfA_FinalProject
- Toos for Analytics _ Final Project
+## Project Group 13
 
+#### UNIs: [hj2642, js6364]
+#### Project Overview
 
-Project Group 13
-
-"UNIs: [js6364, hj2642]
+This project aims to assist individuals searching for a new apartment in New York City by leveraging NYC Open Data datasets and Zillow's historic monthly rent averages. The project is implemented in a Jupyter notebook divided into four parts: Data Preprocessing, Storing Data, Understanding Data, and Visualizing Data. First we download, clean, and filter data using both manual downloads and programmatically acquired datasets from NYC Open Data. The process involves utilizing Pandas and GeoPandas packages, removing unnecessary columns, handling missing data, and normalizing column names and types. We also set the Spatial Reference Identifiers (SRID) for geographic data. We then create a new PostgreSQL database to store the data, turn on the PostGIS extension, and populate four tables: NYC zip codes, 311 complaints, tree census, and historical average rents. In order to understand data, we craft SQL queries that address questions such as identifying calm areas, areas with the most greenery, and exploring correlations between rent, trees, and 311 complaints. Finally, visualizations are created using matplotlib and seaborn libraries. The visualizations cover aspects like the top complaint types, common complaints in a specific area, correlations between rent, trees, and complaints, and geospatial plots of 311 incidents and tree coordinates.
