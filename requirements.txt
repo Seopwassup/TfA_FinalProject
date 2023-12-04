@@ -6,6 +6,14 @@ Pandas
 GeoPandas
 Requests
 Psycopg2
+Pathlib
+OS
+Shapely
 
-BeautifulSoup from bs4
 Socrata from sodapy
+create_engine, text from SQLAlchemy
+Point, Polygon from shapely.geometry
+Geometry, WKTElement from geoalchemy2
+BaseGeometry from shapely.geometry.base
+datetime from datetime
+relativedelta from dateutil.relativedelta
